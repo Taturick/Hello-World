@@ -1,1 +1,1 @@
-# Hello-World
+Esse arquivo é a primeira Aula de Setup da cubos realizada no dia 03/07/23!
